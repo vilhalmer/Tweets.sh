@@ -30,3 +30,4 @@ v1.5 - February 14, 2010
 	- No more temp file
 	- Improved unknown character matching regex
 	- First version to have optional prefpane
+	- 1,730 bytes
